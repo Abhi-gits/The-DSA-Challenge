@@ -2,7 +2,7 @@
 
 // Platform: LeetCode
 // Title : Minimum Moves to Equal Array Elements II
-// Link: https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/description/a
+// Link: https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/description/
 
 
  
